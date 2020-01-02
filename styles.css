@@ -1,0 +1,64 @@
+#heading {
+  background-color: #32445A;
+  padding: 5% 5% 5% 5%;
+}
+
+.Air-Image {
+  color: white;
+  text-align: center;
+}
+
+.Air-Text {
+  color: white;
+}
+
+.Air-Genie {
+  padding-top: 5%;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.Air-Genie-Text {
+  padding-top: 5%;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+.Breath-Image {
+  color: #32445A;
+  text-align: center;
+  padding-bottom: 5%
+}
+
+.Love-Image{
+  color: #32445A;
+  text-align: center;
+  padding-bottom: 5%
+}
+
+.Bottle-Image{
+  color: #32445A;
+  text-align: center;
+  padding-bottom: 5%
+}
+
+#middle-section {
+  padding: 5% 5% 5% 5%;
+}
+
+.H1-Air {
+  padding-top: 2%;
+}
+
+.P-Air {
+  padding-top: 2%;
+}
